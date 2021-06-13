@@ -1,0 +1,41 @@
+
+    .diva{
+			background-color:ORANGE;
+			height:30px;
+			color: white;
+			text-align:center;
+			word-spacing:30px;
+		}
+    .firstdiv{
+	          background-image: url('sky.jfif'); 
+			  background-repeat:no-repeat
+			  height:100%; 
+			  width:100%
+			  
+			  img{
+			      float:right;
+			     }
+    .dive{background-color:grey;
+                	height:100%;
+					width:100%
+	      }
+	.divea{
+	       background: url(heart.jpg);
+		   background-repeat:no-repeat
+		   height:1000px;
+		   width:10%;
+		   float:right
+	       }	
+    .diveb{
+	       background-image: url(highway.jpg) height:1000px;
+		   background-repeat:no-repeat;
+                	height:1000px;
+					width:90%;
+					float:left;
+	       }
+    #id1{
+	     background-image: url(beach-ground.jfif);
+		 background-repeat:no-repeat
+		 height:100%;
+		 width:50%;
+	     }		   
